@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Meteo</string>
+    <string name="appwidget_city">CITY</string>
+    <string name="add_widget">Add widget</string>
+    <string name="open_weathermap_key"> 59bd7c82ac2c22e84ee8e785470b56d8 </string>
+</resources>
